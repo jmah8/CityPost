@@ -1,3 +1,3 @@
 # CityPost
 
-Start website on localhost/src/main.html
+Start website on main.html
